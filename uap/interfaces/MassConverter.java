@@ -2,7 +2,7 @@ package uap.interfaces;
 
 //Interface untuk mengubah massa dari gram ke kilogram.
 public interface MassConverter {
-    int DENOMINATOR = 1000; // 1 kg = 1000 g
+    int DENOMINATOR = 1000;
 
     //Mengubah nilai gram ke kilogram.
     
