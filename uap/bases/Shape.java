@@ -5,9 +5,6 @@ public abstract class Shape {
     // Nama bentuk 
     private String name;
 
-    public Shape() {
-        
-    }
 
     public Shape(String inputName) {
         this.name = inputName;
